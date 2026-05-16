@@ -196,3 +196,8 @@ The YOLO adapter will load Ultralytics weights and use model predictions instead
 - Add uncertainty estimation and quality-control rejection for poor focus, bubbles, debris, and low contrast.
 - Evaluate domain adaptation across microscopes, stains, chambers, and camera frame rates.
 - Add federated learning support so clinics can improve models without centralizing protected media.
+<<<<<<< HEAD
+your content
+=======
+github content
+>>>>>>> branch
