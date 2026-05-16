@@ -1,0 +1,6 @@
+-r requirements.txt
+
+# Optional GPU/YOLO stack. Install this when YOLO_WEIGHTS_PATH is configured.
+torch>=2.3,<3.0
+ultralytics>=8.3,<9.0
+
